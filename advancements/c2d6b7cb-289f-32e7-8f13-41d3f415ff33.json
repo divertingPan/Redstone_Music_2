@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-04-06 13:18:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-04-01 14:09:42 +0800"
@@ -98,6 +104,18 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-01 22:11:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-04-06 13:18:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-04-06 13:17:54 +0800"
     },
     "done": true
   },
@@ -182,6 +200,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2020-04-01 22:05:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-04-06 13:17:32 +0800"
     },
     "done": true
   },
@@ -317,9 +341,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2020-04-06 13:18:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-04-01 22:04:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-04-06 13:17:32 +0800"
     },
     "done": true
   },
@@ -356,6 +392,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-01 22:11:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-04-06 11:37:57 +0800"
     },
     "done": true
   },
@@ -461,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-04-06 13:17:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-01 22:11:46 +0800"
@@ -500,6 +548,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-01 22:11:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-04-06 13:17:54 +0800"
     },
     "done": true
   },
@@ -554,6 +608,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-04-01 22:05:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-04-06 13:17:54 +0800"
     },
     "done": true
   },
